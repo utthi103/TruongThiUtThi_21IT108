@@ -14,7 +14,7 @@ void main() {
               color: Color.fromARGB(255, 172, 103, 12),
             ),
           ),
-          backgroundColor: const Color.fromARGB(255, 30, 12, 8),
+          backgroundColor: const Color.fromARGB(255, 24, 10, 7),
           elevation: 0,
           centerTitle: true,
           // leading: Icon(Icons.arrow_back_ios),
